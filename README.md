@@ -1,2 +1,2 @@
 # Datasets
-This repository contains various types of Datasets.
+This repository contains various Datasets.
